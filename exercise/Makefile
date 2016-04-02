@@ -1,2 +1,2 @@
 test:
-    @ phpunit --color SolutionTest.php
+	@ phpunit --color SolutionTest.php
